@@ -8,4 +8,4 @@
 
  end
 
-hillary = Author.new("Hillary")
+# hillary = Author.new("Hillary")
