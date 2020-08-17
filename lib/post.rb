@@ -8,5 +8,5 @@
 
  end
 
-post = Post.new("post")
-post.author.name = hillary
+# post = Post.new("post")
+# post.author.name = hillary
