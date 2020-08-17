@@ -8,5 +8,5 @@ class Song
 
 end
 
- song = Song.new("Hello")
- song.artist = artist
+ # song = Song.new("Hello")
+ # song.artist = artist
