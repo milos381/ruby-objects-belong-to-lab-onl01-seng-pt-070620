@@ -9,4 +9,4 @@ class Song
 end
 
  song = Song.new("Hello")
- song.artist = beyonce
+ song.artist = artist
